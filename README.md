@@ -1,2 +1,3 @@
 # 05-api-mock
-Generate a local api mock 
+Desarrollo rápido con MOCKS de API
+[http://codigodiario.me/desarrollo-rapido-mocks-api/](http://codigodiario.me/desarrollo-rapido-mocks-api/)
