@@ -1,0 +1,14 @@
+{
+  "name": "mock",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "generate-data": "node script/generateData",
+    "prestart-mockapi": "npm run generate-data",
+    "start-api": "json-server --watch db.json --port 3001"
+  },
+  "dependencies": {
+    "json-schema-faker": "0.3.6",
+    "json-server": "0.8.22"
+  }
+}
